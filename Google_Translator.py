@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 translator = Translator()
-token = 'Your token'
+token = '1439620763:AAEEIGWPDtGnFMaoKGBrX4j2W_jcutbQLKw'
 bot = Bot(token)
 IN = range(1)
 form = """
